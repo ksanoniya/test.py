@@ -7,4 +7,3 @@ print("update")
 def hello():
   print("hello function")
 hello()
-popop
