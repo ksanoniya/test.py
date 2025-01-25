@@ -8,3 +8,4 @@ def hello():
   print("hello function")
 hello()
 print("kalash")
+print("hello")
