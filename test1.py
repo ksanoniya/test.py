@@ -9,4 +9,3 @@ def hello():
 hello()
 print("kalash")
 print("hello")
-def 
